@@ -11,6 +11,6 @@ pipeline {
             steps{
                 sh 'wget http://localhost:8089/'
             }
-        }
+        } 
 }
 }

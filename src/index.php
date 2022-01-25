@@ -11,10 +11,7 @@
             <?php
                 echo "<h1>¡Hola, soy Joel Meneses Meneses y estas en mi blog!</h1>";
                 echo " <img src='https://www.blogmojo.de/wp-content/uploads/2016/11/blog-thema-finden-1460x730.jpg.webp' alt='Blog'>";
-
-                
-                
-               ?>
+            ?>
               
         </div>
     </body>
