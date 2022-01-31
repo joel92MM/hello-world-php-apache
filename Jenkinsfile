@@ -10,6 +10,7 @@ pipeline {
         stage('Test'){
             steps{
                 sh 'wget http://localhost:8089/'
+                sh 'wget http://www.joelmmsystem.com/'
             }
         } 
 }
